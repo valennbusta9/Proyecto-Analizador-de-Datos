@@ -1,0 +1,47 @@
+fecha,categoria,descripcion,monto
+2025-10-02,Supermercado,Compra semanal,18200
+2025-10-03,Transporte,Sube,2800
+2025-10-04,Comida,Almuerzo trabajo,6400
+2025-10-06,Servicios,Internet,12500
+2025-10-07,Salud,Farmacia,4200
+2025-10-09,Ocio,Streaming,3800
+2025-10-10,Comida,Cena,8100
+2025-10-12,Supermercado,Frutas y verduras,5600
+2025-10-15,Servicios,Luz,9700
+2025-10-18,Ocio,Salida,14500
+2025-10-20,Transporte,Taxi,5100
+2025-10-22,Salud,Gimnasio,16000
+2025-10-25,Otros,Regalo,9000
+2025-10-28,Comida,Delivery,7600
+
+2025-11-01,Supermercado,Compra semanal,19500
+2025-11-02,Transporte,Sube,3000
+2025-11-03,Comida,Almuerzo trabajo,6700
+2025-11-05,Servicios,Internet,12500
+2025-11-06,Salud,Farmacia,3900
+2025-11-08,Ocio,Cine,7200
+2025-11-10,Comida,Cena,8800
+2025-11-12,Supermercado,Frutas y verduras,6100
+2025-11-14,Servicios,Agua,4600
+2025-11-16,Ocio,Salida,16200
+2025-11-18,Transporte,Taxi,5400
+2025-11-20,Salud,Gimnasio,16500
+2025-11-22,Otros,Regalo,11000
+2025-11-25,Comida,Delivery,8200
+2025-11-28,Ocio,Bar,9800
+
+2025-12-01,Supermercado,Compra semanal,21000
+2025-12-02,Transporte,Sube,3200
+2025-12-03,Comida,Almuerzo trabajo,6900
+2025-12-05,Servicios,Internet,12500
+2025-12-06,Salud,Farmacia,4500
+2025-12-08,Ocio,Streaming,3800
+2025-12-10,Comida,Cena,9200
+2025-12-12,Supermercado,Frutas y verduras,6300
+2025-12-15,Servicios,Luz,10500
+2025-12-18,Ocio,Salida,18500
+2025-12-20,Transporte,Taxi,6000
+2025-12-22,Salud,Gimnasio,17000
+2025-12-24,Otros,Regalos navidad,25000
+2025-12-26,Comida,Delivery,9100
+2025-12-29,Ocio,Salida fin de año,22000
