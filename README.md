@@ -64,7 +64,7 @@ portfolio-gastos/
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/USUARIO/portfolio-gastos.git
+git clone https://github.com/valennbusta9/Proyecto-Analizador-de-Datos.git
 cd portfolio-gastos
 ```
 
